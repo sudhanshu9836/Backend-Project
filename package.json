@@ -1,0 +1,23 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudhanshu9836/Backend-Project.git"
+  },
+  "author": "Sudhanshu Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudhanshu9836/Backend-Project/issues"
+  },
+  "homepage": "https://github.com/sudhanshu9836/Backend-Project#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
